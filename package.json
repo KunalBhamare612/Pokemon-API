@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-api",
+  "version": "1.0.0",
+  "description": "it's a pokemon-api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "Kunal Bhamare",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
